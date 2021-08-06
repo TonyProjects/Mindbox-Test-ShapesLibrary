@@ -12,6 +12,6 @@
 
 <b>Task 2</b> содержит 2 sql-скрипты:
 
-1) <i>CreateDatabase</i> - Создает базу данных <i>CategoryProduct</i> и таблицы <i>Category</i>, <i>Product</i>, <i>CategoryProduct</i> и заполняет таблицы. Между таблицами <b><i>Category</i></b> и <b><i>Product</i></b> косвено установлена связь <b>Многие-ко-многим</b>.
+1) <i>CreateDatabase</i> - Создает и заполняет таблицы <i>Category</i>, <i>Product</i>, <i>CategoryProduct</i> в созданной базе данных <i>CategoryProduct</i>. Между таблицами <b><i>Category</i></b> и <b><i>Product</i></b> косвено установлена связь <b>Многие-ко-многим</b>.
 
 2) <i>CategoryProduct</i>  - Запрос на выборку пар (имя продукта, имя категории); Выводятся с нулевой (null) категорией продукты не имеющие категории. 
