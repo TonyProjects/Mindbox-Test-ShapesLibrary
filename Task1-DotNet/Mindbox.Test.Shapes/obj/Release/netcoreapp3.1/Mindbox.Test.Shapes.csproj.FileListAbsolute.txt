@@ -1,0 +1,8 @@
+C:\Users\АНАСТАСИЯ\source\repos\Mindbox.Test.Shapes\bin\Release\netcoreapp3.1\Mindbox.Test.Shapes.deps.json
+C:\Users\АНАСТАСИЯ\source\repos\Mindbox.Test.Shapes\bin\Release\netcoreapp3.1\Mindbox.Test.Shapes.dll
+C:\Users\АНАСТАСИЯ\source\repos\Mindbox.Test.Shapes\bin\Release\netcoreapp3.1\Mindbox.Test.Shapes.pdb
+C:\Users\АНАСТАСИЯ\source\repos\Mindbox.Test.Shapes\obj\Release\netcoreapp3.1\Mindbox.Test.Shapes.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\source\repos\Mindbox.Test.Shapes\obj\Release\netcoreapp3.1\Mindbox.Test.Shapes.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\source\repos\Mindbox.Test.Shapes\obj\Release\netcoreapp3.1\Mindbox.Test.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\source\repos\Mindbox.Test.Shapes\obj\Release\netcoreapp3.1\Mindbox.Test.Shapes.dll
+C:\Users\АНАСТАСИЯ\source\repos\Mindbox.Test.Shapes\obj\Release\netcoreapp3.1\Mindbox.Test.Shapes.pdb
